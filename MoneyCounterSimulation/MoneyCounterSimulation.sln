@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoneyCounterSimulation", "MoneyCounterSimulation\MoneyCounterSimulation.vcxproj", "{8268C1CD-B907-4CDB-A78B-06A61037CCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8268C1CD-B907-4CDB-A78B-06A61037CCAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8268C1CD-B907-4CDB-A78B-06A61037CCAE}.Debug|Win32.Build.0 = Debug|Win32
+		{8268C1CD-B907-4CDB-A78B-06A61037CCAE}.Release|Win32.ActiveCfg = Release|Win32
+		{8268C1CD-B907-4CDB-A78B-06A61037CCAE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
